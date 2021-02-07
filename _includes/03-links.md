@@ -1,1 +1,1 @@
-[BBC]https:\\www.bbc.co.uk
+[BBC]https://www.bbc.co.uk
